@@ -1,0 +1,20 @@
+Starter dependency list; verify against imports in your actual Python code.
+
+streamlit
+
+ultralytics
+
+opencv-python
+
+numpy
+
+pandas
+
+Pillow
+
+plotly
+
+easyocr
+
+Uncomment only if your application uses Twilio:
+twilio
